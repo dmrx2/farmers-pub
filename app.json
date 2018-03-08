@@ -1,0 +1,15 @@
+{
+  "name": "farmers-pub",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
